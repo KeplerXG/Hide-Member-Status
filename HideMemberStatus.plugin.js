@@ -3,7 +3,7 @@
  * @author Kepler
  * @version 1.0.0
  * @description Hides all status messages under usernames in the member list.
- * @website none
+ * @website https://github.com/KeplerXG
  */
 
 module.exports = class HideMemberStatus {
@@ -38,3 +38,4 @@ module.exports = class HideMemberStatus {
     });
   }
 };
+
